@@ -1,0 +1,5 @@
+@article{kumar4656387moves,
+  title={Moves: Movable and Moving Lidar Scene Segmentation in Label-Free Settings Using Static Reconstruction},
+  author={Kumar, Prashant and Makwana, Dhruv and Susladkar, Onkar and Mittal, Anurag and Kalra, Prem Kumar},
+  journal={Available at SSRN 4656387}
+}
